@@ -25,6 +25,6 @@ The watch has the overall dimensions of 43.5 x 48 x 18mm and supports standard 2
 
 Two-layer PCB design.
 
-<img src="https://github.com/dantudose/open-smartwatch/blob/main/Images/Hacktor_PCB.jpg" height="350"/>
+<img src="https://github.com/dantudose/open-smartwatch/blob/main/Images/Hacktor_PCB.jpg" height="300"/>
 
 
