@@ -18,11 +18,13 @@ This is a open-hardware wearable based on the ESP32 microcontroller. It is fully
 ## Mechanical Dimensions
 
 The watch has the overall dimensions of 43.5 x 48 x 18mm and supports standard 20mm straps.
+
 <img src="https://github.com/dantudose/open-smartwatch/blob/main/Images/Hacktor_Mechanical.jpg" height="350"/>
 
 ## PCB Design
 
-Two-layer PCB design/
+Two-layer PCB design.
+
 <img src="https://github.com/dantudose/open-smartwatch/blob/main/Images/Hacktor_PCB.jpg" height="350"/>
 
 
