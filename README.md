@@ -24,7 +24,8 @@ This is a open-hardware wearable based on the ESP32 microcontroller. It is fully
 ### Button Layout
 
 <div id="cover">
- <table><thead>
+ <div style='float:left'>
+  <table><thead>
   <tr>
     <th>Button</th>
     <th>ESP32 Pin</th>
@@ -48,7 +49,8 @@ This is a open-hardware wearable based on the ESP32 microcontroller. It is fully
   </tr>
 </tbody>
 </table>
-<div style='float:left'>
+ </div>
+<div style='float:leftt'>
   <img src="https://github.com/dantudose/open-smartwatch/blob/main/Images/Hacktor_buttons.jpg" height="250"/> 
   </div>
   </div>
