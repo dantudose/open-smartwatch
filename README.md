@@ -15,6 +15,11 @@ This is a open-hardware wearable based on the ESP32 microcontroller. It is fully
 * 200mAh LiPo battery
 * USB-C connector
 
+### Button Layout
+
+<img src="https://github.com/dantudose/open-smartwatch/blob/main/Images/Hacktor_buttons.jpg" height="300"/>
+
+
 ## Mechanical Dimensions
 
 The watch has the overall dimensions of 43.5 x 48 x 18mm and supports standard 20mm straps.
