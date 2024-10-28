@@ -15,6 +15,12 @@ This is a open-hardware wearable based on the ESP32 microcontroller. It is fully
 * 200mAh LiPo battery
 * USB-C connector
 
+## Repository Contents
+
+* **/Hardware** - Eagle design files (.brd, .sch)
+* **/Images** - Board images
+* **/Mechanical** - Mechanical files for the case (.stl)
+  
 ### Button Layout
 
 <img src="https://github.com/dantudose/open-smartwatch/blob/main/Images/Hacktor_buttons.jpg" height="300"/>
