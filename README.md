@@ -68,4 +68,8 @@ Two-layer PCB design.
 
 <img src="https://github.com/dantudose/open-smartwatch/blob/main/Images/Hacktor_PCB.jpg" height="300"/>
 
+## License Information
 
+This product is _**open source**_! 
+
+Please review the LICENSE file for license information. 
