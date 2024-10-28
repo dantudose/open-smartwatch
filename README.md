@@ -48,8 +48,10 @@ This is a open-hardware wearable based on the ESP32 microcontroller. It is fully
   </tr>
 </tbody>
 </table>
+  <table>
   <img src="https://github.com/dantudose/open-smartwatch/blob/main/Images/Hacktor_buttons.jpg" height="250"/> 
-</div>
+  </table>
+  </div>
 
 
 
